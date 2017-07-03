@@ -1,0 +1,14 @@
+1) main menu design with options
+    a) binary converter
+        i)accept input
+        ii)read a file
+    b) currency value conversion
+        i)country 1 vs country 2
+    c) weight lifting management system
+        i) gets your workout logs
+        ii) calculates how much weight you've pushed
+        iii) records you weight
+            1) creates a graph like thing
+        iv) can log your stuff
+        v) can print your statistics
+        
